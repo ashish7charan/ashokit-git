@@ -1,6 +1,4 @@
 hello class {
-  
-  i = 10
-  j = 20
-
+i = "hello"
+j = "world"
 }
